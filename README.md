@@ -9,4 +9,6 @@ Simulink played a vital role in our project, enabling us to bring our system to 
 
 Our project seamlessly blended theoretical concepts from our coursework in Renewable Energy and Power Electronics with hands-on experience. It was inspiring to witness how classroom learning translated into impactful solutions. By combining our knowledge and practical skills, we successfully demonstrated the potential of solar power generation for sustainable and eco-friendly homes.
 
+Attached files: The project PowerPoint + Simulink File.
+
 #Solar #Sustainability #PowerElectronics
